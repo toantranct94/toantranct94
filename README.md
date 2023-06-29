@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Software Engineer @ Biwoco <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 <!-- - 🌱 Exploring Technical Content Writing. -->
